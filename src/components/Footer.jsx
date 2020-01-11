@@ -10,10 +10,10 @@ import './Footer.css'
 // }
 
 const Footer = () => {
-    const myname="Sunny LIAO";
+    const myname="Sunny";
     const year=2020;
     return (
-        <footer className="text-center test">
+        <footer className="text-center">
             <p>Copy right {myname} {year}</p>
         </footer>
     )
